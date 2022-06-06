@@ -1,9 +1,9 @@
 import pandas as pd
 
 
-SOURCE_FILE_NAME = "2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv"
-SAVE_FILE_NAME = 'example'
-TARGET_COLUMN = 'Highlight Fur Color'
+SOURCE_FILE_NAME = "your_file_name"
+SAVE_FILE_NAME = 'export_file_name'
+TARGET_COLUMN = 'column_name'
 TARGET_DATATYPE = str
 
 
